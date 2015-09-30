@@ -1,0 +1,9 @@
+C:\Users\K\Desktop\c sharp\程式\書籍庫存搜尋\書籍庫存搜尋\bin\Debug\書籍庫存搜尋.exe.config
+C:\Users\K\Desktop\c sharp\程式\書籍庫存搜尋\書籍庫存搜尋\bin\Debug\書籍庫存搜尋.exe
+C:\Users\K\Desktop\c sharp\程式\書籍庫存搜尋\書籍庫存搜尋\bin\Debug\書籍庫存搜尋.pdb
+C:\Users\K\Desktop\c sharp\程式\書籍庫存搜尋\書籍庫存搜尋\obj\Debug\書籍庫存搜尋.csprojResolveAssemblyReference.cache
+C:\Users\K\Desktop\c sharp\程式\書籍庫存搜尋\書籍庫存搜尋\obj\Debug\書籍庫存搜尋.Form1.resources
+C:\Users\K\Desktop\c sharp\程式\書籍庫存搜尋\書籍庫存搜尋\obj\Debug\書籍庫存搜尋.Properties.Resources.resources
+C:\Users\K\Desktop\c sharp\程式\書籍庫存搜尋\書籍庫存搜尋\obj\Debug\書籍庫存搜尋.csproj.GenerateResource.Cache
+C:\Users\K\Desktop\c sharp\程式\書籍庫存搜尋\書籍庫存搜尋\obj\Debug\書籍庫存搜尋.exe
+C:\Users\K\Desktop\c sharp\程式\書籍庫存搜尋\書籍庫存搜尋\obj\Debug\書籍庫存搜尋.pdb
